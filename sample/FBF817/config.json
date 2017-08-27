@@ -1,7 +1,8 @@
 {
-  "Email": "dev@fossasia.org",
-  "App_Name": "FBF8",
-  "Api_Link": "https://raw.githubusercontent.com/mahikaw/open-event/fbf8/sample/F8"
+  "email": "dev@fossasia.org",
+  "app-name": "FBF8",
+  "api-link": "null",
+  "is-auth-enabled": false
 }
 
 

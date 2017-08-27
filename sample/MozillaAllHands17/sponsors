@@ -1,47 +1,47 @@
 [
   {
-    "name": "Mozilla",
-    "level": "1",
     "description": "",
+    "level": "1",
+    "url": "https://www.mozilla.org/en-US/firefox/new/",
     "logo-url": "/images/sponsors/mozilla_sponsor.png",
-    "url": "https://www.mozilla.org/en-US/firefox/new/",
+    "type": "Gold Sponsor",
     "id": 1,
-    "type": "Gold Sponsor"
+    "name": "Mozilla"
   },
   {
-    "name": "Mozilla Firefox",
-    "level": "1",
     "description": "",
-    "logo-url": "/images/sponsors/mozilla_firefox.png",
+    "level": "1",
     "url": "https://www.mozilla.org/en-US/firefox/new/",
+    "logo-url": "/images/sponsors/mozilla_firefox.png",
+    "type": "Gold Sponsor",
     "id": 2,
-    "type": "Gold Sponsor"
+    "name": "Mozilla Firefox"
   },
   {
-    "name": "Mozilla Thunderbird",
-    "level": "1",
     "description": "",
-    "logo-url": "/images/sponsors/mozilla_thunderbird.png",
+    "level": "1",
     "url": "https://www.mozilla.org/en-US/thunderbird/",
+    "logo-url": "/images/sponsors/mozilla_thunderbird.png",
+    "type": "Gold Sponsor",
     "id": 3,
-    "type": "Gold Sponsor"
+    "name": "Mozilla Thunderbird"
   },
   {
-    "name": "Mozilla Firefox for Android",
-    "level": "1",
     "description": "",
-    "logo-url": "/images/sponsors/mozilla_firefox_android.png",
+    "level": "1",
     "url": "https://support.mozilla.org/en-US/products/mobile",
+    "logo-url": "/images/sponsors/mozilla_firefox_android.png",
+    "type": "Gold Sponsor",
     "id": 4,
-    "type": "Gold Sponsor"
+    "name": "Mozilla Firefox for Android"
   },
   {
-    "name": "Mozilla Firefox Focus",
-    "level": "1",
     "description": "",
-    "logo-url": "/images/sponsors/mozilla_firefox_focus.png",
+    "level": "1",
     "url": "https://github.com/mozilla-mobile/focus-android",
+    "logo-url": "/images/sponsors/mozilla_firefox_focus.png",
+    "type": "Gold Sponsor",
     "id": 5,
-    "type": "Gold Sponsor"
+    "name": "Mozilla Firefox Focus"
   }
 ]

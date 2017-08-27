@@ -1,5 +1,6 @@
 {
-  "Email": "allhands@gmail.com",
-  "App_Name": "Mozilla All Hands 2017",
-  "Api_Link": "https://raw.githubusercontent.com/fossasia/open-event/master/sample/MozillaAllHands17"
+  "email": "allhands@gmail.com",
+  "app-name": "Mozilla All Hands 2017",
+  "api-link": "",
+  "is-auth-enabled": false
 }

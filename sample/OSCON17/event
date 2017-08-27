@@ -1,77 +1,79 @@
 {
-	"id": 3,
-	"name": "OSCON 2017",
-	"latitude": 30.263569,
-	"longitude": -97.739606,
-	"location-name": "Austin Convention Center, Austin, TX ",
-	"starts-at": "2017-05-08T13:00:00-05:00",
-	"ends-at": "2017-05-11T13:00:00-05:00",
-	"timezone": "America/Chicago",
-	"description": "Open source is everywhere—from the bottom of the programming stack to the top. OSCON brings the software engineering and developer community together to explore what's new and useful in open source languages, tools, and techniques. It's the best place to sharpen your skills and discover important trends, making you better at what you do and igniting your love of code.",
-	"original-image-url": "/images/background.png",
-	"logo-url": "/images/log.png",
-	"organizer-name": "O'Reilly",
-	"organizer-description": "Open source is everywhere—from the bottom of the programming stack to the top. OSCON brings the software engineering and developer community together to explore what's new and useful in open source languages, tools, and techniques. It's the best place to sharpen your skills and discover important trends, making you better at what you do and igniting your love of code.",
-	"social-links": [{
-			"id": 1,
-			"link": "https://twitter.com/oscon",
-			"name": "Twitter"
-		}, {
-			"id": 2,
-			"link": "https://www.facebook.com/OReilly",
-			"name": "Facebook"
-		},
-		{
-			"id": 3,
-			"link": "https://plus.google.com/oreillymedia/posts",
-			"name": "Google Plus"
-		},
-		{
-			"id": 4,
-			"link": "https://www.youtube.com/user/OreillyMedia",
-			"name": "YouTube"
-		},
-		{
-			"id": 5,
-			"link": "https://www.linkedin.com/company/8459",
-			"name": "LinkedIn"
-		},
-		{
-			"id": 6,
-			"link": "https://conferences.oreilly.com/oscon/oscon-tx",
-			"name": "External Event URL"
-		}
-	],
-	"ticket-url": "",
-	"privacy": "public",
-	"type": "",
-	"topic": "Science & Technology",
-	"sub-topic": "High Tech",
-	"code-of-conduct": "",
-	"event-copyright": {
-		"holder": "O'Reilly",
-		"holder-url": null,
-		"licence": "Public Domain Dedication (CC0)",
-		"licence-url": "https://creativecommons.org/publicdomain/zero/1.0/",
-		"logo-url": "http://i.creativecommons.org/p/zero/1.0/88x31.png",
-		"year": 2017
-	},
-	"speakers-call": null,
-	"email": null,
-	"is-sessions-speakers-enabled": false,
-	"identifier": "7d16c124",
-	"large-image-url": null,
-	"licence-details": null,
-	"placeholder-url": null,
-	"schedule-published-on": null,
-	"searchable-location-name": null,
-	"state": "Published",
-	"version": {
-		"event_ver": 0,
-		"microlocations_ver": 0,
-		"sessions_ver": 0,
-		"speakers_ver": 0,
-		"sponsors_ver": 0,
-		"tracks_ver": 0
-	}
+  "speakers-call": null,
+  "schedule-published-on": null,
+  "organizer-description": "Open source is everywhere\u2014from the bottom of the programming stack to the top. OSCON brings the software engineering and developer community together to explore what's new and useful in open source languages, tools, and techniques. It's the best place to sharpen your skills and discover important trends, making you better at what you do and igniting your love of code.",
+  "original-image-url": "/images/background.png",
+  "topic": "Science & Technology",
+  "organizer-name": "O'Reilly",
+  "large-image-url": null,
+  "timezone": "America/Chicago",
+  "id": 3,
+  "ticket-url": "",
+  "location-name": "Austin Convention Center, Austin, TX ",
+  "event-copyright": {
+    "logo-url": "http://i.creativecommons.org/p/zero/1.0/88x31.png",
+    "holder-url": null,
+    "licence": "Public Domain Dedication (CC0)",
+    "year": 2017,
+    "licence-url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "holder": "O'Reilly"
+  },
+  "is-sessions-speakers-enabled": false,
+  "privacy": "public",
+  "state": "Published",
+  "version": {
+    "tracks_ver": 0,
+    "event_ver": 0,
+    "speakers_ver": 0,
+    "sessions_ver": 0,
+    "microlocations_ver": 0,
+    "sponsors_ver": 0
+  },
+  "latitude": 30.263569,
+  "type": "",
+  "email": null,
+  "starts-at": "2017-05-08T13:00:00-05:00",
+  "searchable-location-name": null,
+  "description": "Open source is everywhere\u2014from the bottom of the programming stack to the top. OSCON brings the software engineering and developer community together to explore what's new and useful in open source languages, tools, and techniques. It's the best place to sharpen your skills and discover important trends, making you better at what you do and igniting your love of code.",
+  "logo-url": "/images/log.png",
+  "social-links": [
+    {
+      "link": "https://twitter.com/oscon",
+      "id": 1,
+      "name": "Twitter"
+    },
+    {
+      "link": "https://www.facebook.com/OReilly",
+      "id": 2,
+      "name": "Facebook"
+    },
+    {
+      "link": "https://plus.google.com/oreillymedia/posts",
+      "id": 3,
+      "name": "Google Plus"
+    },
+    {
+      "link": "https://www.youtube.com/user/OreillyMedia",
+      "id": 4,
+      "name": "YouTube"
+    },
+    {
+      "link": "https://www.linkedin.com/company/8459",
+      "id": 5,
+      "name": "LinkedIn"
+    },
+    {
+      "link": "https://conferences.oreilly.com/oscon/oscon-tx",
+      "id": 6,
+      "name": "External Event URL"
+    }
+  ],
+  "placeholder-url": null,
+  "name": "OSCON 2017",
+  "ends-at": "2017-05-11T13:00:00-05:00",
+  "code-of-conduct": "",
+  "longitude": -97.739606,
+  "licence-details": null,
+  "sub-topic": "High Tech",
+  "identifier": "7d16c124"
 }

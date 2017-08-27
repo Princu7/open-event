@@ -1,6 +1,7 @@
 {
-  "Email": "",
-  "App_Name": "OSCON17",
-  "Api_Link": "https://raw.githubusercontent.com/mahikaw/open-event/OSCON17/sample/OSCON17"
+  "email": "",
+  "app-name": "OSCON17",
+  "api-link": "null",
+  "is-auth-enabled": false
 }
 

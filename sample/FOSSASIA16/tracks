@@ -1,7 +1,6 @@
 [
   {
-    "color": "#3DC8C3",
-    "font-color": "#FFFFFF",
+    "description": "OpenTech and IoT",
     "sessions": [
       {
         "id": 1,
@@ -197,7 +196,7 @@
       },
       {
         "id": 47,
-        "title": "Modular vs Monolith â€“ The Structure of Node.JS Applications"
+        "title": "Modular vs Monolith \u00e2\u20ac\u201c The Structure of Node.JS Applications"
       },
       {
         "id": 48,
@@ -288,13 +287,13 @@
         "title": "Closing Notes of FOSSASIA 2016"
       }
     ],
-    "description": "OpenTech and IoT",
+    "color": "#3DC8C3",
+    "font-color": "#FFFFFF",
     "id": 1,
     "name": "OpenTech and IoT"
   },
   {
-    "color": "#1485CC",
-    "font-color": "#FFFFFF",
+    "description": "OpenTech Workshops",
     "sessions": [
       {
         "id": 80,
@@ -401,13 +400,13 @@
         "title": "Closing Notes"
       }
     ],
-    "description": "OpenTech Workshops",
+    "color": "#1485CC",
+    "font-color": "#FFFFFF",
     "id": 2,
     "name": "OpenTech Workshops"
   },
   {
-    "color": "#B21212",
-    "font-color": "#FFFFFF",
+    "description": "Tech Kids I",
     "sessions": [
       {
         "id": 114,
@@ -518,13 +517,13 @@
         "title": "Closing Notes in Main Hall (Level 3, Dalton Hall)"
       }
     ],
-    "description": "Tech Kids I",
+    "color": "#B21212",
+    "font-color": "#FFFFFF",
     "id": 3,
     "name": "Tech Kids I"
   },
   {
-    "color": "#9EFF56",
-    "font-color": "#FFFFFF",
+    "description": "Tech Kids II",
     "sessions": [
       {
         "id": 125,
@@ -639,13 +638,13 @@
         "title": "Hong Phuc Dang"
       }
     ],
-    "description": "Tech Kids II",
+    "color": "#9EFF56",
+    "font-color": "#FFFFFF",
     "id": 4,
     "name": "Tech Kids II"
   },
   {
-    "color": "#E8782C",
-    "font-color": "#FFFFFF",
+    "description": "Tech Kids III",
     "sessions": [
       {
         "id": 153,
@@ -700,13 +699,13 @@
         "title": "End of Sessions"
       }
     ],
-    "description": "Tech Kids III",
+    "color": "#E8782C",
+    "font-color": "#FFFFFF",
     "id": 5,
     "name": "Tech Kids III"
   },
   {
-    "color": "#FF3046",
-    "font-color": "#FFFFFF",
+    "description": "Hardware and IoT",
     "sessions": [
       {
         "id": 187,
@@ -809,13 +808,13 @@
         "title": "End of Sessions and Social Event (Invitation Only)"
       }
     ],
-    "description": "Hardware and IoT",
+    "color": "#FF3046",
+    "font-color": "#FFFFFF",
     "id": 6,
     "name": "Hardware and IoT"
   },
   {
-    "color": "#BF532E",
-    "font-color": "#FFFFFF",
+    "description": "DevOps",
     "sessions": [
       {
         "id": 191,
@@ -855,7 +854,7 @@
       },
       {
         "id": 200,
-        "title": "7 Tips to design  web-centric, high performance applications: A DB Architectâ€™s Perspective"
+        "title": "7 Tips to design  web-centric, high performance applications: A DB Architect\u00e2\u20ac\u2122s Perspective"
       },
       {
         "id": 220,
@@ -946,13 +945,13 @@
         "title": "Closing Notes in Main Hall (Level 3, Dalton Hall)"
       }
     ],
-    "description": "DevOps",
+    "color": "#BF532E",
+    "font-color": "#FFFFFF",
     "id": 7,
     "name": "DevOps"
   },
   {
-    "color": "#FFF22A",
-    "font-color": "#FFFFFF",
+    "description": "WebTech",
     "sessions": [
       {
         "id": 240,
@@ -1071,13 +1070,13 @@
         "title": "Closing Notes in Main Hall (Level 3, Dalton Hall)"
       }
     ],
-    "description": "WebTech",
+    "color": "#FFF22A",
+    "font-color": "#FFFFFF",
     "id": 8,
     "name": "WebTech"
   },
   {
-    "color": "#1C9ECC",
-    "font-color": "#FFFFFF",
+    "description": "Python",
     "sessions": [
       {
         "id": 252,
@@ -1196,13 +1195,13 @@
         "title": "Closing Notes in Main Hall (Level 3, Dalton Hall)"
       }
     ],
-    "description": "Python",
+    "color": "#1C9ECC",
+    "font-color": "#FFFFFF",
     "id": 9,
     "name": "Python"
   },
   {
-    "color": "#E0331F",
-    "font-color": "#FFFFFF",
+    "description": "Big Data/Open Data",
     "sessions": [
       {
         "id": 281,
@@ -1341,13 +1340,13 @@
         "title": "Closing Notes in Main Hall (Level 3, Dalton Hall)"
       }
     ],
-    "description": "Big Data/Open Data",
+    "color": "#E0331F",
+    "font-color": "#FFFFFF",
     "id": 10,
     "name": "Big Data/Open Data"
   },
   {
-    "color": "#B062A1",
-    "font-color": "#FFFFFF",
+    "description": "Databases",
     "sessions": [
       {
         "id": 315,
@@ -1458,13 +1457,13 @@
         "title": "Closing Notes in Main Hall (Level 3, Dalton Hall)"
       }
     ],
-    "description": "Databases",
+    "color": "#B062A1",
+    "font-color": "#FFFFFF",
     "id": 11,
     "name": "Databases"
   },
   {
-    "color": "#1CCCC5",
-    "font-color": "#FFFFFF",
+    "description": "Internet, Society, Community",
     "sessions": [
       {
         "id": 350,
@@ -1563,13 +1562,13 @@
         "title": "End of Sessions and Social Event (Invitation Only)"
       }
     ],
-    "description": "Internet, Society, Community",
+    "color": "#1CCCC5",
+    "font-color": "#FFFFFF",
     "id": 12,
     "name": "Internet, Society, Community"
   },
   {
-    "color": "#5972B0",
-    "font-color": "#FFFFFF",
+    "description": "Privacy and Security",
     "sessions": [
       {
         "id": 366,
@@ -1612,13 +1611,13 @@
         "title": "Closing Notes in Main Hall (Level 3, Dalton Hall)"
       }
     ],
-    "description": "Privacy and Security",
+    "color": "#5972B0",
+    "font-color": "#FFFFFF",
     "id": 13,
     "name": "Privacy and Security"
   },
   {
-    "color": "#FF3C11",
-    "font-color": "#FFFFFF",
+    "description": "Science Hack Day",
     "sessions": [
       {
         "id": 376,
@@ -1789,13 +1788,13 @@
         "title": "Closing Notes in Main Hall (Level 3, Dalton Hall)"
       }
     ],
-    "description": "Science Hack Day",
+    "color": "#FF3C11",
+    "font-color": "#FFFFFF",
     "id": 14,
     "name": "Science Hack Day"
   },
   {
-    "color": "#84CC12",
-    "font-color": "#FFFFFF",
+    "description": "Linux and MiniDebConf",
     "sessions": [
       {
         "id": 425,
@@ -1838,13 +1837,13 @@
         "title": "Reproducible Builds - fulfilling the original promise of free software"
       }
     ],
-    "description": "Linux and MiniDebConf",
+    "color": "#84CC12",
+    "font-color": "#FFFFFF",
     "id": 15,
     "name": "Linux and MiniDebConf"
   },
   {
-    "color": "#CC8312",
-    "font-color": "#FFFFFF",
+    "description": "Design, VR, 3D",
     "sessions": [
       {
         "id": 428,
@@ -1860,7 +1859,7 @@
       },
       {
         "id": 431,
-        "title": "Open Source Design â€“ how we do it in ownCloud"
+        "title": "Open Source Design \u00e2\u20ac\u201c how we do it in ownCloud"
       },
       {
         "id": 432,
@@ -1887,13 +1886,13 @@
         "title": "Closing Notes in Main Hall (Level 3, Dalton Hall)"
       }
     ],
-    "description": "Design, VR, 3D",
+    "color": "#CC8312",
+    "font-color": "#FFFFFF",
     "id": 16,
     "name": "Design, VR, 3D"
   },
   {
-    "color": "#992EFF",
-    "font-color": "#FFFFFF",
+    "description": "Exhibition",
     "sessions": [
       {
         "id": 438,
@@ -2120,15 +2119,16 @@
         "title": "FOSSASIA 2016 Closes"
       }
     ],
-    "description": "Exhibition",
+    "color": "#992EFF",
+    "font-color": "#FFFFFF",
     "id": 17,
     "name": "Exhibition"
   },
   {
+    "description": "Social Event",
+    "sessions": [],
     "color": "#59B077",
     "font-color": "#FFFFFF",
-    "sessions": [],
-    "description": "Social Event",
     "id": 18,
     "name": "Social Event"
   }

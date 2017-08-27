@@ -1,101 +1,101 @@
 [
   {
+    "description": "",
+    "level": "1",
     "url": "https://developers.google.com/open-source/",
-    "level": "1",
-    "name": "Google",
-    "description": "",
-    "id": 1,
     "logo-url": "/images/sponsors/Google_1.png",
-    "type": "Diamond"
+    "type": "Diamond",
+    "id": 1,
+    "name": "Google"
   },
   {
+    "description": "",
+    "level": "1",
     "url": "http://blog.fossasia.org/",
-    "level": "1",
-    "name": "FOSSASIA",
-    "description": "",
-    "id": 5,
     "logo-url": "/images/sponsors/Fossasia_5.png",
-    "type": "Diamond"
+    "type": "Diamond",
+    "id": 5,
+    "name": "FOSSASIA"
   },
   {
+    "description": "",
+    "level": "2",
     "url": "http://redhat.com",
-    "level": "2",
-    "name": "RedHat",
-    "description": "",
-    "id": 2,
     "logo-url": "/images/sponsors/Redhat_2.png",
-    "type": "Platinum"
+    "type": "Platinum",
+    "id": 2,
+    "name": "RedHat"
   },
   {
-    "url": "http://github.com",
+    "description": "",
     "level": "1",
-    "name": "GitHub",
-    "description": "",
-    "id": 3,
+    "url": "http://github.com",
     "logo-url": "/images/sponsors/Github_3.png",
-    "type": "Platinum"
+    "type": "Platinum",
+    "id": 3,
+    "name": "GitHub"
   },
   {
+    "description": "",
+    "level": "4",
     "url": "http://mysql.com",
-    "level": "4",
-    "name": "MySQL",
-    "description": "",
-    "id": 4,
     "logo-url": "/images/sponsors/Mysql_4.png",
-    "type": "Gold"
+    "type": "Gold",
+    "id": 4,
+    "name": "MySQL"
   },
   {
-    "url": "http://www.unesco.org/new/en/communication-and-information/access-to-knowledge/free-and-open-source-software-foss/",
+    "description": "",
     "level": "3",
-    "name": "UNESCO",
-    "description": "",
-    "id": 6,
+    "url": "http://www.unesco.org/new/en/communication-and-information/access-to-knowledge/free-and-open-source-software-foss/",
     "logo-url": "/images/sponsors/Unesco_6.png",
-    "type": "Gold"
+    "type": "Gold",
+    "id": 6,
+    "name": "UNESCO"
   },
   {
-    "url": "http://mbm.asia/",
+    "description": "",
     "level": "2",
-    "name": "MBM",
-    "description": "",
-    "id": 7,
+    "url": "http://mbm.asia/",
     "logo-url": "/images/sponsors/Mbm_7.png",
-    "type": "Gold"
+    "type": "Gold",
+    "id": 7,
+    "name": "MBM"
   },
   {
+    "description": "",
+    "level": "5",
     "url": "https://hackerspace.sg/",
-    "level": "5",
-    "name": "hackerspace.sg",
-    "description": "",
-    "id": 8,
     "logo-url": "/images/sponsors/Hackerspace.Sg_8.png",
-    "type": "Silver"
+    "type": "Silver",
+    "id": 8,
+    "name": "hackerspace.sg"
   },
   {
+    "description": "",
+    "level": "4",
     "url": "http://enterprise.nus.edu.sg/",
-    "level": "4",
-    "name": "NUS Enterprise",
-    "description": "",
-    "id": 9,
     "logo-url": "/images/sponsors/NusEnterprise_9.png",
-    "type": "Silver"
+    "type": "Silver",
+    "id": 9,
+    "name": "NUS Enterprise"
   },
   {
-    "url": "https://www.python.org/",
+    "description": "",
     "level": "5",
-    "name": "Python",
-    "description": "",
-    "id": 10,
+    "url": "https://www.python.org/",
     "logo-url": "/images/sponsors/Python_10.png",
-    "type": "Silver"
+    "type": "Silver",
+    "id": 10,
+    "name": "Python"
   },
   {
-    "url": "http://www.youthmobile.org/",
-    "level": "4",
-    "name": "Youth Mobile",
     "description": "",
-    "id": 12,
+    "level": "4",
+    "url": "http://www.youthmobile.org/",
     "logo-url": "/images/sponsors/YouthMobile_12.png",
-    "type": "Bronze"
+    "type": "Bronze",
+    "id": 12,
+    "name": "Youth Mobile"
   }
 ]
